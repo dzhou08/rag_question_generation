@@ -1,0 +1,14 @@
+openai
+llama-index
+python-dotenv
+pypdf
+transformers
+torchvision
+trulens_eval
+torch 
+sentence-transformers
+transformers
+langchain-community
+beautifulsoup4
+hjson
+spacy
